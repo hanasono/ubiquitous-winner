@@ -1,5 +1,7 @@
 https://www.kali.org/news/kali-linux-in-the-windows-app-store/
 
+Digest:
+
 ```
 PS:> Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
 ```
