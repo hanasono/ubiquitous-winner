@@ -20,6 +20,8 @@ Kali on Azure
 add inbound rule for port 22 and home ip to allow ssh connection
 ---
 
-fierce -dns somedomain -wordlist somelist
+fierce -dns somedomain -wordlist somelist -threads 10
 
 nmap
+
+nmap -vv -o -sS -A -p- P0 -oX test.xml 106.1**.**1.40
