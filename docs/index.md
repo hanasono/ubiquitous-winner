@@ -52,3 +52,15 @@ NSE
 - -sC 或--script=default：启动默认类NSE 脚本。
 - --script <filename>|<category>|<directories>：根据指定的文件名、类别名、目录名，执行相应的脚本。
 - --script-args <args>：这个选项用于给脚本指定参数。例如，在使用认证类脚本时，可通过这个选项指定用户名和密码。
+
+- -d: enable debug mode to see log
+---
+
+vuln
+
+https://www.exploit-db.com/
+https://www.exploit-db.com/google-hacking-database/
+http://www.openvas.org/
+
+sqlmap
+
