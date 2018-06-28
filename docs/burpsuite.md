@@ -7,5 +7,12 @@ http://www.dvwa.co.uk/
 install dvwa with xampp
 
 drop dvwa folder to c:/xampp/htdocs
+
 remove .dist in config file name
+
 update config file with default mysql root pw in xampp which is empty string
+
+
+send to intruder for dictionary brute force on param
+
+dvwa security level fun to play with
